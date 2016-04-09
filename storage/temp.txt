@@ -1,0 +1,1 @@
+{u'startedAt': u'2016-04-09T00:32:51.205796914Z', u'running': True, u'readings': {u'solarFlare': False, u'radiation': 500, u'temperature': -53.5}, u'teams': [{u'energy': 100, u'life': 100, u'name': u'while(E){', u'shield': False}, {u'energy': 100, u'life': 100, u'name': u'Shields', u'shield': False}], u'timestamp': u'2016-04-09T00:32:51.52593239Z'}

@@ -1,0 +1,35 @@
+{
+    "readings": {
+        "radiation": 872,
+        "solarFlare": false,
+        "temperature": -3.960996217958863
+    },
+    "running": false,
+    "startedAt": "2015-08-04T00:44:40.854306651Z",
+    "teams": [
+        {
+            "energy": 100,
+            "life": 0,
+            "name": "TheBorgs",
+            "shield": false
+        },
+        {
+            "energy": 100,
+            "life": 0,
+            "name": "QuickFandang o",
+            "shield": false
+        },
+        {
+            "energy": 32,
+            "life": 53,
+            "name": "InTheBigMessos",
+            "shield": false
+        },
+        {
+            "energy": 100,
+            "life": 100,
+            "name": "MamaMia ",
+            "shield": false
+        }
+    ]
+}
